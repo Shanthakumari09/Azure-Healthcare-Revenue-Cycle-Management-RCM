@@ -1,0 +1,2 @@
+# Azure-Healthcare-Revenue-Cycle-Management-RCM-.
+This healthcare RCM project builds a data pipeline to streamline billing and collections for hospitals, integrating EMR, claims, NPI, and ICD data into structured tables. Using SQL, Python, and ETL tools, the pipeline enables KPI calculation, improving payment timelines, reducing errors, and optimizing financial health through real-time monitoring.
